@@ -1,0 +1,11 @@
+.first{
+    font-weight: 700;
+}
+
+.second{
+    font-style: italic;
+}
+
+.third{
+   text-decoration-line:underline;
+}
